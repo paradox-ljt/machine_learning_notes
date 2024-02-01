@@ -9,18 +9,10 @@
 
 # 西瓜书的学习笔记
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
 
 ---
+  这是当第一次学习西瓜书的随手记，有心得和一些实现的代码，还包括了一些时间序列的传统算法。当时正在打数学建模竞赛，所以有一些数据是国赛题目里面的和学校内部的，无法公开。看完西瓜书对机器学习传统算法有了一定的了解，至于前沿的算法还需读者多关注论文，并且读西瓜书的同时建议写一写代码，比单纯的干啃公式要实用得多。
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
